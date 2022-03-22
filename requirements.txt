@@ -1,0 +1,3 @@
+###### Libraries to install ######
+cairosvg
+Pillow
